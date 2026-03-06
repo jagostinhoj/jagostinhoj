@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jagostinhoj
-- 👀 I’m interested in GiyHub
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Code deployment
+- 👀 I’m interested in GitHub
 - 📫 How to reach me via e-mail: jagostinhoj@gmail.com
 
 <!---
